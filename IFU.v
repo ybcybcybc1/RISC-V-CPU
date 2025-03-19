@@ -1,0 +1,4 @@
+module IFU(
+	input
+    );
+endmodule
